@@ -25,8 +25,10 @@ The Movie Management System (MMS) is a comprehensive application designed to hel
 - Add, update, and remove movie details.
 - Monitor and moderate user reviews.
 - Securely log in to access admin functionalities.
-- Technologies Used
-Frontend:
+
+##Technologies Used
+  
+###Frontend:
 
 JSP (Java Server Pages)
 HTML, CSS, and JavaScript
