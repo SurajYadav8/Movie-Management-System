@@ -3,12 +3,12 @@
 
 The Movie Management System (MMS) is a comprehensive application designed to help users explore, review, and track movies. It provides detailed information about movies, such as release dates, actors, ratings, platforms where they are available, and much more. It also allows users to submit reviews, view others' reviews, and categorize movies based on personal preferences.
 
-# Features
-# For Users
-.Registration & Login: Users can register and securely log in.
-.Movie Categorization: Browse movies by categories like horror, comedy, adventure, etc.
-.View Movie Information: Access detailed information about movies, including cast, director, and release dates.
-.Submit Reviews: Add star ratings and textual reviews for movies.
+## Features
+### For Users
+-Registration & Login: Users can register and securely log in.
+-Movie Categorization: Browse movies by categories like horror, comedy, adventure, etc.
+-View Movie Information: Access detailed information about movies, including cast, director, and release dates.
+-Submit Reviews: Add star ratings and textual reviews for movies.
 Update Profile: Manage personal details within the platform.
 For Directors
 Upload New Movies: Add movie details and related information to the database.
