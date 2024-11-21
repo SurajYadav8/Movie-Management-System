@@ -19,50 +19,60 @@ The Movie Management System (MMS) is a comprehensive application designed to hel
 * View public reviews of their movies.
 * Update personal information.
 
-###For Admins:
+### For Admins:
 
 - Manage user and director profiles.
 - Add, update, and remove movie details.
 - Monitor and moderate user reviews.
 - Securely log in to access admin functionalities.
 
-##Technologies Used
+## Technologies Used
   
-###Frontend:
+### Frontend:
 
-JSP (Java Server Pages)
-HTML, CSS, and JavaScript
-Bootstrap for responsive design
-Backend:
+- JSP (Java Server Pages)
+- HTML, CSS, and JavaScript
+- Bootstrap for responsive design
 
-MySQL (Relational Database Management System)
-Java (application logic and backend)
-Apache Server (for hosting and deployment)
-System Architecture
-Entity-Relationship Diagram (ERD): Illustrates relationships between entities like users, directors, and movies.
-Data Flow Diagrams (DFD):
-Zero-level DFD
-First-level DFD for users, directors, and admins
-Second-level DFD for detailed process flows
-How to Run the Project
-Clone the Repository:
+### Backend:
+
+- MySQL (Relational Database Management System)
+- Java (application logic and backend)
+- Apache Server (for hosting and deployment)
+
+## System Architecture
+
+- Entity-Relationship Diagram (ERD): Illustrates relationships between entities like users, directors, and movies.
+- Data Flow Diagrams (DFD):
+  - Zero-level DFD
+  - First-level DFD for users, directors, and admins
+  - Second-level DFD for detailed process flows
+ 
+
+## How to Run the Project
+1. Clone the Repository:
 bash
 Copy code
 git clone https://github.com/SurajYadav8/Movie-Management-System.git
-Set Up MySQL Database:
-Import the SQL schema into your MySQL server.
-Configure Database Connection:
-Update database credentials in db_connection.ConnectionProvider.
-Deploy the Application:
-Use Apache Tomcat or any Java web server to deploy the project.
-Access the Application:
-Open http://localhost in your browser to interact with the system.
-Future Scope
-Integrate direct links to OTT platforms for seamless access.
-Add AI-based movie recommendations tailored to user preferences.
-Develop a mobile app for Android and iOS.
-Author
-Suraj Yadav
-Guided by: Mr. Deepak Sharma
-Bachelor of Computer Application (BCA)
+2. Set Up MySQL Database:
+  - Import the SQL schema into your MySQL server.
+3. Configure Database Connection:
+   - Update database credentials in db_connection.ConnectionProvider.
+4. Deploy the Application:
+   - Use Apache Tomcat or any Java web server to deploy the project.
+5. Access the Application:
+   - Open http://localhost in your browser to interact with the system.
+
+     
+## Future Scope
+
+- Integrate direct links to OTT platforms for seamless access.
+- Add AI-based movie recommendations tailored to user preferences.
+- Develop a mobile app for Android and iOS.
+
+  
+## Author
+- Suraj Yadav
+- Guided by: Mr. Deepak Sharma
+- Bachelor of Computer Application (BCA)
 
